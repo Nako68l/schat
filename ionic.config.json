@@ -1,0 +1,8 @@
+{
+  "name": "scaht",
+  "app_id": "c81351fc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
